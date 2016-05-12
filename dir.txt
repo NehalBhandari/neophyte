@@ -1,0 +1,6 @@
+total 16
+drwx------   5 nehalbhandari  staff   170 May 11 23:38 .
+drwx------   3 nehalbhandari  staff   102 May 11 23:36 ..
+drwx------  14 nehalbhandari  staff   476 May 11 23:50 .git
+-rw-------   1 nehalbhandari  staff    37 May 11 23:36 README.md
+-rw-------   1 nehalbhandari  staff  1769 May 11 23:38 usage.txt
